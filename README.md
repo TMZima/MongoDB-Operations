@@ -2,7 +2,7 @@ View the rubric for this assessment [here](https://storage.googleapis.com/hatchw
 
 ### MongoDB
 
-# Completion
+## Completion
 
 ● There is a MongoDB command submitted for task # 1 (Create)
 ● There is a MongoDB command submitted for task # 2 (Read)
@@ -21,7 +21,7 @@ View the rubric for this assessment [here](https://storage.googleapis.com/hatchw
 ● There is a MongoDB command submitted for task # 15 (Aggregate)
 ● There is a MongoDB command submitted for task # 16 (Aggregate)
 
-# Process and Understanding
+## Process and Understanding
 
 ● The MongoDB command submitted for task # 1 (Create) runs without errors and
 produces the correct response
